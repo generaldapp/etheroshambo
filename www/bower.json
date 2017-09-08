@@ -1,0 +1,28 @@
+{
+  "name": "etheroshambo-ui",
+  "description": "www-style frontend for etheroshambo contract interaction via web3.js",
+  "main": "index.html",
+  "keywords": [
+    "etheroshambo",
+    "ethereum",
+    "rock",
+    "paper",
+    "scissors"
+  ],
+  "authors": [
+    "dumbcontract"
+  ],
+  "license": "MIT",
+  "homepage": "etheroshambo.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "etheroshambo",
+  "version": "1.0.0",
+  "description": "Ethereum Smart-Contract and UI for completely fair head-to-head implementation of Rock-Paper-Scissors",
+  "main": "index.js",
+  "scripts": {
+    "test": "http-server www -p 443 -d false --ssl --cert secrets/redjr.rack.lan.crt --key secrets/redjr.rack.lan.key"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "dumbcontract",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
